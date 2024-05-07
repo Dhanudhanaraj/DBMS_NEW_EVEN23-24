@@ -1,15 +1,18 @@
 # Ex. No: 9  Triggers in PL/SQL
 ### DATE: 
-### REGISTER NUMBER:
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ### AIM: 
 To create PL/SQL program to display new and old salary of customer when before/ after updation takes place. 
 ### PROCEDURE
+```
 1. Create a trigger for each row when updation occurs.
 2. Declare the variable in Declare section.
 3. Start the begin section.
 4. Calculate the salary changes.
 5. Display the result 
 6. End the begin section.
+```
 ### Program:
 ```
 CREATE OR REPLACE TRIGGER display_salary_changes 
