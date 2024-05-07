@@ -1,16 +1,20 @@
 # EXP NO 2: DATA DEFINITION LANGUAGE COMMANDS AND ITS CONSTRAINTS
-### DATE : 
-### REGISTER NUMBER: 
+### DATE: 
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ## AIM:
  To study and write DDL commands and different types of constraints.
 ## THEORY
-```
+
 ### DDL (Data Definition Language)
+```
 * DDL or Data Definition Language actually consists of the SQL commands that can be used to define the database schema.
 * It simply deals with descriptions of the database schema and is used to create and modify the structure of database objects in the database.
 * DDL is a set of SQL commands used to create, modify, and delete database structures but not data.
 * These commands are normally not used by a general user, who should be accessing the database via an application.
+```
 ### List of DDL commands: 
+```
 1. CREATE: This command is used to create the database or its objects (like table, index, function, views, store procedure, and triggers).
    Syntax:CREATE TABLE (field_1 data_type(size),field_2 data_type(size), .. . );
 2. ALTER: This is used to alter the structure of the database.
@@ -25,8 +29,10 @@
 3. DROP TABLE :This is used to delete the structure of a relation. It permanently deletes the records in the table.
    Syntax: DROP TABLE relation_name;
 4. RENAME: This is used to rename an object existing in the database.
-   Syntax: RENAME TABLE old_relation_name TO new_relation_name;     
+   Syntax: RENAME TABLE old_relation_name TO new_relation_name;
+```    
 ### CONSTRAINTS
+```
 Constraints are used to specify rules for the data in a table. If there is any violation between the constraint and the data action, the action is aborted by the constraint. It can be specified when the table is created (using CREATE TABLE statement) or after the table is created (using ALTER TABLE statement). 
 1. NOT NULL:
    When a column is defined as NOTNULL, then that column becomes a mandatory column. It implies that a value must be entered into the column if the record is to be accepted for storage in the table. 
@@ -54,6 +60,7 @@ Syntax:
 CREATE TABLE Table_Name(col_name1,col_name2,col_name3 DEFAULT ‘’);
 ```
 ## PROCEDURE
+```
 1. Start the program. 
 2. Read the given query.
 3. create the table using 
@@ -63,6 +70,7 @@ CREATE TABLE Table_Name(col_name1,col_name2,col_name3 DEFAULT ‘’);
 6. Specify the constraints NOT NULL,UNIQUE,DEFAULT,UNIQUE based on the query
 7. Show the output
 8. Stop the program
+```
 ## Query 1:
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/908acbce-7e1f-49ca-b8b5-9dca4e8aef38)
 ### SQL QUERY:
