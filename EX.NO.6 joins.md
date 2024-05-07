@@ -1,12 +1,15 @@
 # EX.NO 6 TYPES OF JOINS in SQL
-### DATE :
-### REGISTER NUMBER: 
+### DATE: 
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ## AIM:
  To study and implement different types of joins.
 # THEORY
-## JOINS 
+## JOINS
+```
 *  The SQL Joins clause is used to combine records from two or more tables in a database.
 *  A JOIN is a means for combining fields from two tables by using values common to each.The join is actually performed by the ‘where’ clause which combines specified rows of tables.
+```
 ## TYPES OF JOINS: 
 ```
 1. Inner Join - The INNER JOIN keyword selects records that have matching values in both tables.
