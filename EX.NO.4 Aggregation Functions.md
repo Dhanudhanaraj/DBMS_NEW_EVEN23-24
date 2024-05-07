@@ -1,12 +1,15 @@
 # EX.NO 4 Aggregation functions, Having and Group By clause in SQL
-### DATE:
-#### REGISTER NUMBER:
+### DATE: 
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ## AIM:
 To study and write aggregation functions, group by and having clause with suitable examples.
 ## THEORY
 ## Aggregation Functions
+```
 *An aggregate function is a function that performs a calculation on a set of values, and returns a single value.
 *Aggregate functions are often used with the GROUP BY clause of the SELECT statement.
+```
 ## List of Aggregation functions:
 ```
 1. MIN() - returns the smallest value within the selected column
