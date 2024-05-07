@@ -1,13 +1,17 @@
 # Ex.No: 7 PL/SQL program to perform addition and subtraction of two number 
 ### DATE: 
-### REGISTER NUMBER: 
-### AIM: To create PL/SQL program to perform addition and subtraction of two number.
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
+### AIM:
+To create PL/SQL program to perform addition and subtraction of two number.
 ### PROCEDURE
+```
 1. Declare the variable a, b and necessary variables in Declare section.
 2. Perform addition of two numbers
 3. Perform subtraction of two numbers 
 4. Display the result 
 5. End the begin section.
+```
 ### Program:
 ```
 declare
