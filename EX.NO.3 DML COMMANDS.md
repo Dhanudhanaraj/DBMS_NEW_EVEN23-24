@@ -1,12 +1,15 @@
 # EX.NO 3 Data Manipulation Language (DML) Commands and built in functions in SQL
-### DATE:
-#### REGISTER NUMBER:
+### DATE: 
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ## AIM:
 To Study and write DML Commands for given query.
 ## THEORY
 ## DML(Data Manipulation Language)
+```
 *  The SQL commands that deal with the manipulation of data present in the database belong to DML or Data Manipulation Language and this includes most of the SQL statements.
 *  It is the component of the SQL statement that controls access to data and to the database. Basically, DCL statements are grouped with DML statements.
+```
 ## List of DML commands:
 ```
 1. INSERT: It is used to insert data into a table
@@ -109,7 +112,6 @@ UPDATE suppliers SET supplier_name = 'A1 Suppliers' WHERE supplier_id = 8;
 UPDATE products SET reorder_lvl = 40  WHERE category = 'Grocery';
 ## TEST QUERY AND ITS OUTPUT 
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/a2da7c2d-4321-45e0-a1ea-20fabd42e805)
-
 
 ## RESULT :
 Thus the basic DML commands are executed.
