@@ -1,17 +1,18 @@
 # EX.NO 1: ER DIAGRAM CREATION, RELATIONAL MODEL AND SCHEMA GENERATION  
 ### DATE: 
-### REGISTER NUMBER: 
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ## AIM:
-<div align="justify">
-   To create an ER Diagram for University Data base or Hospital data base using ERD Plus tool and generate the relational model with schema. 
-</div>
+To create an ER Diagram for University Data base or Hospital data base using ERD Plus tool and generate the relational model with schema. 
+
 ## Algorithm
+```
 1. Create a login with https://erdplus.com.
 2. Create a new ER Diagram with name
 3. Create a strong entity, relation and attributes.
 4. Create a weak entity, relation and attributes.
 5. Specify attributes unique, multivalued and composite attributes.
-
+```
 ### ER Diagram 
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/3d55670f-6398-418e-af51-6b654c007b93)
 
@@ -20,7 +21,8 @@
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/96d8d7cb-01e2-4129-b640-03f3085eca53)
 
 ### SQL DDL Schema 
-'''CREATE TABLE Programs
+```
+CREATE TABLE Programs
 (
   pro_id INT NOT NULL,
   pro_name INT NOT NULL,
@@ -130,8 +132,9 @@ CREATE TABLE College
   PRIMARY KEY (Cname),
   FOREIGN KEY (Dname) REFERENCES Departments(Dname),
   FOREIGN KEY (staff_no) REFERENCES Instructors(staff_no)
-); '''
+);
+```
 ## RESULT 
-<div align="justify">
+
 Thus the ER diagram was drawn and relational diagram, SQL DDL staements are generated using ERD plus tool.
-</div>
+
