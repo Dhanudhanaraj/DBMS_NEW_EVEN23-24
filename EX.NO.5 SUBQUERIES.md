@@ -1,20 +1,25 @@
 # EX.NO 5 Sub Queries and Views in SQL
-### DATE:
-#### REGISTER NUMBER:
+### DATE: 
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ## AIM:
 To study and implement Subqueries and Views in SQL 
 ## THEORY
-## SUB QUERIES 
+## SUB QUERIES
+```
 * The query within another is known as a subquery. A statement containing a subquery is called a parent statement.
 * A subquery may occur in :
 - A SELECT clause
 - A FROM clause
 - A WHERE clause
 *The subquery can be nested inside a SELECT, INSERT, UPDATE, or DELETE statement or inside another subquery.
+```
 ## Types of SubQueries
+```
 1. Sub queries that return several values - Sub queries can also return more than one value. Such results should be made use along with the operators in and any.
 2. Multiple queries- Here more than one subquery is used. These multiple sub queries are combined by means of ‘and’ & ‘or’ keywords. 
 3. Correlated subquery- A subquery is evaluated once for the entire parent statement whereas a correlated Sub query is evaluated once per row processed by the parent statement.
+```
 ## Views
 ```
 In SQL, a view is a virtual table based on the result-set of an SQL statement. A view contains rows and columns, just like a real table. The fields in a view are fields from one or more real tables in the database. 
@@ -61,7 +66,7 @@ WHERE customer_id =
     (SELECT salesman_id - 2001
      FROM salesman
      WHERE name = 'Mc Lyon');
-     ```
+```
 ### TEST QUERY AND ITS OUTPUT
 ![image](https://github.com/UmaRani-Github/DBMS_NEW_EVEN23-24/assets/144427076/c7dae58e-3c29-4bf5-88cb-40b86b2cd4f9)
 ### QUERY 3
