@@ -1,5 +1,5 @@
 # EX.NO 4 Aggregation functions, Having and Group By clause in SQL
-### DATE: 
+### DATE:06.03.2024 
 ### NAME:DHANUMALYA.D
 ### REGISTER NUMBER:212222230030 
 ## AIM:
