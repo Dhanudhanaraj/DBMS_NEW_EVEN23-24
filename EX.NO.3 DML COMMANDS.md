@@ -1,5 +1,5 @@
 # EX.NO 3 Data Manipulation Language (DML) Commands and built in functions in SQL
-### DATE: 
+### DATE:28.02.2024 
 ### NAME:DHANUMALYA.D
 ### REGISTER NUMBER:212222230030 
 ## AIM:
