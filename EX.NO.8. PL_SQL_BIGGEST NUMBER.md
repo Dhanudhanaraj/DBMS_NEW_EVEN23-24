@@ -1,14 +1,17 @@
 # Ex.No:8 PL/SQL program -BIGGEST OF THREE NUMBERS  
 ### DATE: 
-### REGISTER NUMBER:
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030 
 ### AIM: 
 To create PL/SQL program to find biggest of three numbers.
 ### ALGORITHM:
+```
 1. Declare the variable a, b, c and assign value in Declare section.
 2. begin the section
 3. Find biggest of three numbers 
 4. Display the result 
 6. End the begin section.
+```
 ### Program:
 ```
 --To find the greatest number among given three numbers
