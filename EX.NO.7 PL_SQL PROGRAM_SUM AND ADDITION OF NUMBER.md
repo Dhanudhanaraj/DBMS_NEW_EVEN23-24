@@ -1,5 +1,5 @@
 # Ex.No: 7 PL/SQL program to perform addition and subtraction of two number 
-### DATE: 
+### DATE:10.04.2024 
 ### NAME:DHANUMALYA.D
 ### REGISTER NUMBER:212222230030 
 ### AIM:
