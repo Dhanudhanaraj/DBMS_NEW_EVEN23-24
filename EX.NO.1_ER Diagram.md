@@ -1,7 +1,8 @@
 # EX.NO 1: ER DIAGRAM CREATION, RELATIONAL MODEL AND SCHEMA GENERATION  
 ### DATE:14.02.2024 
 ### NAME:DHANUMALYA.D
-### REGISTER NUMBER:212222230030 
+### REGISTER NUMBER:212222230030
+
 ## AIM:
 To create an ER Diagram for University Data base or Hospital data base using ERD Plus tool and generate the relational model with schema. 
 
