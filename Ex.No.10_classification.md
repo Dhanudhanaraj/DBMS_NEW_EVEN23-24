@@ -1,6 +1,7 @@
 # EX.NO.10: Simulating Classification using WEKA Data mining and Analysis Tool
-## Date: 
-## REGISTER NUMBER
+### DATE:08.05.2024 
+### NAME:DHANUMALYA.D
+### REGISTER NUMBER:212222230030
 ## AIM:
 To perform a classification technique using WEKA tool
 ## WEKA:
